@@ -1,0 +1,2 @@
+Average sampling rate: 53.57 Гц
+ADC quantization step: 0.0129 В
